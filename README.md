@@ -54,3 +54,5 @@ This introduces fundamental concepts and hands-on practices for Linux. By comple
 This provides a solid foundation for working with Linux. Whether you are a beginner or looking to refresh your skills, it equips you with the knowledge needed to navigate, manage, and secure Linux systems. 
 
 ---
+
+## Happy learning! 💻
