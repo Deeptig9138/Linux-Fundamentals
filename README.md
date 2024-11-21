@@ -20,7 +20,7 @@ This introduces fundamental concepts and hands-on practices for Linux. By comple
 2. [Linux Distributions](https://github.com/Deeptig9138/Linux-Fundamentals/tree/main/2.%20Linux%20Distributions)  
 3. [Introduction to Shell](https://github.com/Deeptig9138/Linux-Fundamentals/tree/main/3.%20Introduction%20to%20Shell)  
 4. [Prompt Description](https://github.com/Deeptig9138/Linux-Fundamentals/tree/main/4.%20Prompt%20Description)  
-5. [Getting Help](#getting-help)  
+5. [Getting Help](https://github.com/Deeptig9138/Linux-Fundamentals/tree/main/5.%20Getting%20Help)  
 6. [System Information](#system-information)  
 7. [Navigation](#navigation)  
 8. [Working with Files and Directories](#working-with-files-and-directories)  
