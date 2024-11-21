@@ -16,7 +16,7 @@ This introduces fundamental concepts and hands-on practices for Linux. By comple
 ---
 
 ## 📖 **Table of Contents**
-1. [Linux Structure](#linux-structure)  
+1. [Linux Structure](https://github.com/Deeptig9138/Linux-Fundamentals/tree/main/1.%20Linux%20Structure)  
 2. [Linux Distributions](#linux-distributions)  
 3. [Introduction to Shell](#introduction-to-shell)  
 4. [Prompt Description](#prompt-description)  
