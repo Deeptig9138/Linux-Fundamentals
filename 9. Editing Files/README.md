@@ -40,6 +40,8 @@ After saving the file, you can view its content using the cat command:
 username@htb[/htb]$ cat notes.txt
 ```
 
+---
+
 ## Editing Files with Vim
 
 ### 1. Introduction to Vim
