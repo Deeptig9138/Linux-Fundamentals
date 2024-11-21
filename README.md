@@ -55,4 +55,4 @@ This provides a solid foundation for working with Linux. Whether you are a begin
 
 ---
 
-## Happy learning! 💻
+**Happy learning! 💻**
