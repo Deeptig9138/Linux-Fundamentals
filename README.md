@@ -1,6 +1,8 @@
 # Linux Fundamentals: A Comprehensive Guide
 Welcome to **Linux Fundamentals**, your entry point into mastering the Linux operating system and terminal. Linux is an indispensable tool in cybersecurity, systems administration, and network management. With its wide adoption across servers, it offers countless possibilities for offensive security practitioners, network defenders, and administrators. This will guide you through the essentials of Linux and provide hands-on exercises to build your skills.
 
+![linux fundamentals](https://miro.medium.com/v2/resize:fit:740/0*ZLy2CvClAS4SBp86.jpg)
+
 ---
 
 ## 🌟 **Overview**
@@ -44,7 +46,6 @@ This introduces fundamental concepts and hands-on practices for Linux. By comple
 28. [System Logs and Monitoring](#system-logs-and-monitoring)  
 29. [Solaris](#solaris)  
 30. [Shortcuts](#shortcuts)  
-31. [Module Summary](#module-summary)  
 
 ---
 
