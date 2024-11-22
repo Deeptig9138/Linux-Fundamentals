@@ -3,9 +3,13 @@
 ## Overview
 Service and process management is an essential part of system administration. Linux systems utilize internal services for system startup and user-installed services such as servers. These services, often called daemons, run in the background and can be managed using various tools and commands.
 
+---
+
 ## Types of Services
 1. **Internal Services**: Required at system startup and handle hardware-related tasks.
 2. **User-Installed Services**: Include server-related services and run without user interaction.
+
+---
 
 ## Tools for Management
 ### **Systemctl**
