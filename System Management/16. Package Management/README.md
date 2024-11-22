@@ -93,5 +93,5 @@ username@htb[/htb]$ mkdir ~/nishang/ && git clone https://github.com/samratashok
 
 ---
 
-Practice Tip
+Practice Tip:
 Set up a local virtual machine (VM) to experiment with various package management tools and commands safely.
