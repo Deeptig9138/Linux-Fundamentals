@@ -18,33 +18,37 @@ This introduces fundamental concepts and hands-on practices for Linux. By comple
 ## 📖 **Table of Contents**
 
 ### Introduction
-1. [Linux Structure](https://github.com/Deeptig9138/Linux-Fundamentals/tree/main/1.%20Linux%20Structure)  
-2. [Linux Distributions](https://github.com/Deeptig9138/Linux-Fundamentals/tree/main/2.%20Linux%20Distributions)  
-3. [Introduction to Shell](https://github.com/Deeptig9138/Linux-Fundamentals/tree/main/3.%20Introduction%20to%20Shell)
+1. [Linux Structure](https://github.com/Deeptig9138/Linux-Fundamentals/tree/main/Introduction/1.%20Linux%20Structure)  
+2. [Linux Distributions](https://github.com/Deeptig9138/Linux-Fundamentals/tree/main/Introduction/2.%20Linux%20Distributions)  
+3. [Introduction to Shell](https://github.com/Deeptig9138/Linux-Fundamentals/tree/main/Introduction/3.%20Introduction%20to%20Shell)
 
 ### The Shell
-4. [Prompt Description](https://github.com/Deeptig9138/Linux-Fundamentals/tree/main/4.%20Prompt%20Description)  
-5. [Getting Help](https://github.com/Deeptig9138/Linux-Fundamentals/tree/main/5.%20Getting%20Help)  
-6. [System Information](https://github.com/Deeptig9138/Linux-Fundamentals/tree/main/6.%20System%20Information)
+4. [Prompt Description](https://github.com/Deeptig9138/Linux-Fundamentals/tree/main/The%20Shell/4.%20Prompt%20Description)  
+5. [Getting Help](https://github.com/Deeptig9138/Linux-Fundamentals/tree/main/The%20Shell/5.%20Getting%20Help)  
+6. [System Information](https://github.com/Deeptig9138/Linux-Fundamentals/tree/main/The%20Shell/6.%20System%20Information)
+
+### Workflow
+7. [Navigation](https://github.com/Deeptig9138/Linux-Fundamentals/tree/main/Workflow/7.%20Navigation)  
+8. [Working with Files and Directories](https://github.com/Deeptig9138/Linux-Fundamentals/tree/main/Workflow/8.%20Working%20with%20Files%20and%20Directories)  
+9. [Editing Files](https://github.com/Deeptig9138/Linux-Fundamentals/tree/main/Workflow/9.%20Editing%20Files)  
+10. [Find Files and Directories](https://github.com/Deeptig9138/Linux-Fundamentals/tree/main/Workflow/10.%20Find%20Files%20and%20Directories)  
+11. [File Descriptors and Redirections](https://github.com/Deeptig9138/Linux-Fundamentals/tree/main/Workflow/11.%20File%20Descriptors%20and%20Redirections)  
+12. [Filter Contents](https://github.com/Deeptig9138/Linux-Fundamentals/tree/main/Workflow/12.%20Filter%20Contents)  
+13. [Regular Expressions](https://github.com/Deeptig9138/Linux-Fundamentals/tree/main/Workflow/13.%20Regular%20Expressions)  
+14. [Permission Management](https://github.com/Deeptig9138/Linux-Fundamentals/tree/main/Workflow/14.%20Permission%20Management)
+
+### System Management
+15. [User Management](#user-management)  
+16. [Package Management](#package-management)  
+17. [Service and Process Management](#service-and-process-management)  
+18. [Task Scheduling](#task-scheduling)  
+18. [Network Services](#network-services)  
+20. [Working with Web Services](#working-with-web-services)  
+21. [Backup and Restore](#backup-and-restore)  
+22. [File System Management](#file-system-management)  
+23. [Containerization](#containerization)
 
 
-8. [Navigation](https://github.com/Deeptig9138/Linux-Fundamentals/tree/main/7.%20Navigation)  
-9. [Working with Files and Directories](https://github.com/Deeptig9138/Linux-Fundamentals/tree/main/8.%20Working%20with%20Files%20and%20Directories)  
-10. [Editing Files](https://github.com/Deeptig9138/Linux-Fundamentals/tree/main/9.%20Editing%20Files)  
-11. [Find Files and Directories](https://github.com/Deeptig9138/Linux-Fundamentals/tree/main/10.%20Find%20Files%20and%20Directories)  
-12. [File Descriptors and Redirections](https://github.com/Deeptig9138/Linux-Fundamentals/tree/main/11.%20File%20Descriptors%20and%20Redirections)  
-13. [Filter Contents](https://github.com/Deeptig9138/Linux-Fundamentals/tree/main/12.%20Filter%20Contents)  
-14. [Regular Expressions](https://github.com/Deeptig9138/Linux-Fundamentals/tree/main/13.%20Regular%20Expressions)  
-15. [Permission Management](#permission-management)  
-16. [User Management](#user-management)  
-17. [Package Management](#package-management)  
-18. [Service and Process Management](#service-and-process-management)  
-19. [Task Scheduling](#task-scheduling)  
-20. [Network Services](#network-services)  
-21. [Working with Web Services](#working-with-web-services)  
-22. [Backup and Restore](#backup-and-restore)  
-23. [File System Management](#file-system-management)  
-24. [Containerization](#containerization)  
 25. [Network Configuration](#network-configuration)  
 26. [Remote Desktop Protocols in Linux](#remote-desktop-protocols-in-linux)  
 27. [Linux Security](#linux-security)  
