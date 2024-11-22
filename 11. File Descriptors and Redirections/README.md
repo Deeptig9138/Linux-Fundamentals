@@ -96,10 +96,10 @@ Counts the number of lines in the filtered results.
 
 ## Summary
 - Redirection Symbols:
-  - >: Redirect STDOUT to a file (overwrite).
-  - >>: Append STDOUT to a file.
-  - <: Redirect file content as STDIN.
-  - 2>: Redirect STDERR to a file or device.
-  - |: Pipe STDOUT to another command.
+  - **>: Redirect STDOUT to a file (overwrite).**
+  - **>>: Append STDOUT to a file.**
+  - **<: Redirect file content as STDIN.**
+  - **2>: Redirect STDERR to a file or device.**
+  - **|: Pipe STDOUT to another command.**
 
 By mastering file descriptors and redirections, you can control the flow of data in Linux efficiently, enabling more effective troubleshooting and data processing.
