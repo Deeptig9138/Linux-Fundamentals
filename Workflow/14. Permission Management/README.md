@@ -32,8 +32,8 @@ ls: cannot access 'mydirectory/..': Permission denied
 ```
 
 **Execute Permissions**
-Allow traversal: Navigate to the directory.
-Does not grant modification: Requires separate write permission.
+- **Allow traversal**: Navigate to the directory.
+- **Does not grant modification**: Requires separate write permission.
 
 ---
 
