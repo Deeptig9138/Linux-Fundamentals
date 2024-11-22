@@ -39,7 +39,7 @@ This introduces fundamental concepts and hands-on practices for Linux. By comple
 
 ### System Management
 15. [User Management](https://github.com/Deeptig9138/Linux-Fundamentals/tree/main/System%20Management/15.%20User%20Management)  
-16. [Package Management](#package-management)  
+16. [Package Management](https://github.com/Deeptig9138/Linux-Fundamentals/tree/main/System%20Management/16.%20Package%20Management)  
 17. [Service and Process Management](#service-and-process-management)  
 18. [Task Scheduling](#task-scheduling)  
 18. [Network Services](#network-services)  
