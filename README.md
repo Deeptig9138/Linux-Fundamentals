@@ -48,14 +48,20 @@ This introduces fundamental concepts and hands-on practices for Linux. By comple
 22. [File System Management](#file-system-management)  
 23. [Containerization](#containerization)
 
+### Linux Networking
+24. [Network Configuration](#network-configuration)  
+25. [Remote Desktop Protocols in Linux](#remote-desktop-protocols-in-linux)
 
-25. [Network Configuration](#network-configuration)  
-26. [Remote Desktop Protocols in Linux](#remote-desktop-protocols-in-linux)  
-27. [Linux Security](#linux-security)  
-28. [Firewall Setup](#firewall-setup)  
-29. [System Logs and Monitoring](#system-logs-and-monitoring)  
-30. [Solaris](#solaris)  
-31. [Shortcuts](#shortcuts)  
+### Linux Hardening
+26. [Linux Security](#linux-security)  
+27. [Firewall Setup](#firewall-setup)  
+28. [System Logs and Monitoring](#system-logs-and-monitoring)
+
+### Linux Distributions vs Solaris
+29. [Solaris](#solaris)
+
+### Tips & Tricks
+30. [Shortcuts](#shortcuts)  
 
 ---
 
