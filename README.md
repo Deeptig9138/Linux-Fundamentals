@@ -38,7 +38,7 @@ This introduces fundamental concepts and hands-on practices for Linux. By comple
 14. [Permission Management](https://github.com/Deeptig9138/Linux-Fundamentals/tree/main/Workflow/14.%20Permission%20Management)
 
 ### System Management
-15. [User Management](#user-management)  
+15. [User Management](https://github.com/Deeptig9138/Linux-Fundamentals/tree/main/System%20Management/15.%20User%20Management)  
 16. [Package Management](#package-management)  
 17. [Service and Process Management](#service-and-process-management)  
 18. [Task Scheduling](#task-scheduling)  
