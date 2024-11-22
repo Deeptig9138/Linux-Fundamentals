@@ -28,7 +28,7 @@ This introduces fundamental concepts and hands-on practices for Linux. By comple
 10. [Find Files and Directories](https://github.com/Deeptig9138/Linux-Fundamentals/tree/main/10.%20Find%20Files%20and%20Directories)  
 11. [File Descriptors and Redirections](https://github.com/Deeptig9138/Linux-Fundamentals/tree/main/11.%20File%20Descriptors%20and%20Redirections)  
 12. [Filter Contents](https://github.com/Deeptig9138/Linux-Fundamentals/tree/main/12.%20Filter%20Contents)  
-13. [Regular Expressions](#regular-expressions)  
+13. [Regular Expressions](https://github.com/Deeptig9138/Linux-Fundamentals/tree/main/13.%20Regular%20Expressions)  
 14. [Permission Management](#permission-management)  
 15. [User Management](#user-management)  
 16. [Package Management](#package-management)  
