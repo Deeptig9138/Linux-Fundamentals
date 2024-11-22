@@ -13,8 +13,6 @@ This guide covers how to manage file descriptors and use redirection to control 
 - **STDOUT (FD 1)**: Output stream for normal results.
 - **STDERR (FD 2)**: Output stream for errors.
 
----
-
 ## **2. STDIN and STDOUT**
 ### Example:
 ```
