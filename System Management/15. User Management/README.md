@@ -32,16 +32,16 @@ bin:*:17737:0:99999:7:::
 ---
 
 ## Key Commands for User Management
-| **Command** |	Description                                                               |
-|-------------|---------------------------------------------------------------------------|
-| **sudo	    | Execute a command as a different user.                                    |
-| **su	      | Switch to another user ID (default is the superuser) and execute a shell. |
-| **useradd	  | Create a new user or update default new user information.                 |
-| **userdel	  | Delete a user account and related files.                                  |
-| **usermod	  | Modify an existing user account.                                          |
-| **addgroup  | Add a new group to the system.                                            |
-| **delgroup  | Remove a group from the system.                                           |
-| **passwd	  | Change a user password.                                                   |
+| **Command**   |	Description                                                               |
+|---------------|---------------------------------------------------------------------------|
+| **sudo**	    | Execute a command as a different user.                                    |
+| **su**	      | Switch to another user ID (default is the superuser) and execute a shell. |
+| **useradd**	  | Create a new user or update default new user information.                 |
+| **userdel**	  | Delete a user account and related files.                                  |
+| **usermod**	  | Modify an existing user account.                                          |
+| **addgroup**  | Add a new group to the system.                                            |
+| **delgroup**  | Remove a group from the system.                                           |
+| **passwd**	  | Change a user password.                                                   |
 
 ---
 
