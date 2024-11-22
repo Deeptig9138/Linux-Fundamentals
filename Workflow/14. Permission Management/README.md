@@ -1,5 +1,5 @@
 # Permission Management
-Permission management in Linux allows control over who can access, modify, or execute files and directories. Permissions are defined for users, groups, and others, and can be managed using commands like `ls`, `chmod`, and `chown`. Here's a detailed guide:
+Permission management in Linux allows control over who can access, modify, or execute files and directories. Permissions are defined for users, groups, and others, and can be managed using commands like `ls`, `chmod`, and `chown`. 
 
 ---
 
