@@ -131,5 +131,5 @@ Connect to a VPN using an .ovpn file:
 sudo openvpn --config internal.ovpn
 ```
 
-Configuration
+### Configuration
 Customize /etc/openvpn/server.conf to set encryption, routing, and traffic shaping options.
