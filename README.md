@@ -54,7 +54,7 @@ This introduces fundamental concepts and hands-on practices for Linux. By comple
 
 ### Linux Hardening
 26. [Linux Security](https://github.com/Deeptig9138/Linux-Fundamentals/tree/main/Linux%20Hardening/26.%20Linux%20Security)  
-27. [Firewall Setup](#firewall-setup)  
+27. [Firewall Setup](https://github.com/Deeptig9138/Linux-Fundamentals/tree/main/Linux%20Hardening/27.%20Firewall%20Setup)  
 28. [System Logs and Monitoring](#system-logs-and-monitoring)
 
 ### Linux Distributions vs Solaris
