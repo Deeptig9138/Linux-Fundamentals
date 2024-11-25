@@ -10,7 +10,7 @@ Linux systems, though less prone to viruses compared to other operating systems 
 ### 1. Keep the System and Packages Updated
 One of the most important aspects of securing a Linux system is keeping the OS and installed packages up to date. Use the following command to update your system:
 ```
-Deeptig12@htb[/htb]$ apt update && apt dist-upgrade
+username@htb[/htb]$ apt update && apt dist-upgrade
 ```
 
 ### 2. Firewall Configuration
@@ -32,7 +32,7 @@ PasswordAuthentication no
 ### 4. Access Control & Privilege Management
 Administrators should avoid logging into and administering the system as the root user. Access control should be managed based on the principle of least privilege. Only allow users to execute specific commands as root using sudo:
 ```
-Deeptig12@htb[/htb]$ visudo
+username@htb[/htb]$ visudo
 ```
 
 ### 5. Monitoring and Auditing
