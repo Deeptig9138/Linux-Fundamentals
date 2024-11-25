@@ -50,7 +50,7 @@ This introduces fundamental concepts and hands-on practices for Linux. By comple
 
 ### Linux Networking
 24. [Network Configuration](https://github.com/Deeptig9138/Linux-Fundamentals/tree/main/Linux%20Networking/24.%20Network%20Configuration)  
-25. [Remote Desktop Protocols in Linux](#remote-desktop-protocols-in-linux)
+25. [Remote Desktop Protocols in Linux](https://github.com/Deeptig9138/Linux-Fundamentals/tree/main/Linux%20Networking/25.%20Remote%20Desktop%20Protocols%20in%20Linux)
 
 ### Linux Hardening
 26. [Linux Security](#linux-security)  
