@@ -72,7 +72,7 @@ cd /mnt/usb && ls -l
 sudo umount /mnt/usb
 ```
 
-Check active processes using the file system:
+### Check active processes using the file system:
 ```
 lsof | grep <mount-point>
 ```
