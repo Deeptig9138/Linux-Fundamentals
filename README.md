@@ -61,12 +61,11 @@ This introduces fundamental concepts and hands-on practices for Linux. By comple
 29. [Solaris](https://github.com/Deeptig9138/Linux-Fundamentals/tree/main/Linux%20Distributions%20vs%20Solaris/29.%20Solaris)
 
 ### Tips & Tricks
-30. [Shortcuts](#shortcuts)  
+30. [Shortcuts](https://github.com/Deeptig9138/Linux-Fundamentals/tree/main/Tips%20%26%20Tricks/30.%20Shortcuts)  
 
 ---
 
 ## 📝 **Summary**
-
 This provides a solid foundation for working with Linux. Whether you are a beginner or looking to refresh your skills, it equips you with the knowledge needed to navigate, manage, and secure Linux systems. 
 
 ---
