@@ -45,7 +45,7 @@ This introduces fundamental concepts and hands-on practices for Linux. By comple
 18. [Network Services](https://github.com/Deeptig9138/Linux-Fundamentals/tree/main/System%20Management/19.%20Network%20Services)  
 20. [Working with Web Services](https://github.com/Deeptig9138/Linux-Fundamentals/tree/main/System%20Management/20.%20Working%20with%20Web%20Services)  
 21. [Backup and Restore](https://github.com/Deeptig9138/Linux-Fundamentals/tree/main/System%20Management/21.%20Backup%20and%20Restore)  
-22. [File System Management](#file-system-management)  
+22. [File System Management](https://github.com/Deeptig9138/Linux-Fundamentals/tree/main/System%20Management/22.%20File%20System%20Management)  
 23. [Containerization](#containerization)
 
 ### Linux Networking
