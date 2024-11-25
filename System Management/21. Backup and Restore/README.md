@@ -39,6 +39,7 @@ Backing Up a Local Directory
 rsync -av /path/to/mydirectory user@backup_server:/path/to/backup/directory
 ```
 `-a`: Archive mode (preserves file attributes).
+
 `-v`: Verbose output.
   
 ## Adding Compression and Incremental Backups
@@ -46,7 +47,9 @@ rsync -av /path/to/mydirectory user@backup_server:/path/to/backup/directory
 rsync -avz --backup --backup-dir=/path/to/backup/folder --delete /path/to/mydirectory user@backup_server:/path/to/backup/directory
 ```
 `-z`: Enables compression.
+
 `--backup`: Creates incremental backups.
+
 `--delete`: Removes files on the remote server that no longer exist locally.
 
 ## Restoring Using Rsync
