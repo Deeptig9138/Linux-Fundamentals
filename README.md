@@ -58,7 +58,7 @@ This introduces fundamental concepts and hands-on practices for Linux. By comple
 28. [System Logs and Monitoring](https://github.com/Deeptig9138/Linux-Fundamentals/tree/main/Linux%20Hardening/28.%20System%20Logs%20and%20Monitoring)
 
 ### Linux Distributions vs Solaris
-29. [Solaris](#solaris)
+29. [Solaris](https://github.com/Deeptig9138/Linux-Fundamentals/tree/main/Linux%20Distributions%20vs%20Solaris/29.%20Solaris)
 
 ### Tips & Tricks
 30. [Shortcuts](#shortcuts)  
