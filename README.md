@@ -49,7 +49,7 @@ This introduces fundamental concepts and hands-on practices for Linux. By comple
 23. [Containerization](https://github.com/Deeptig9138/Linux-Fundamentals/tree/main/System%20Management/23.%20Containerization)
 
 ### Linux Networking
-24. [Network Configuration](#network-configuration)  
+24. [Network Configuration](https://github.com/Deeptig9138/Linux-Fundamentals/tree/main/Linux%20Networking/24.%20Network%20Configuration)  
 25. [Remote Desktop Protocols in Linux](#remote-desktop-protocols-in-linux)
 
 ### Linux Hardening
