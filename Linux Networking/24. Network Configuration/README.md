@@ -30,7 +30,7 @@ Penetration testing (pen testing) is a critical process for identifying and addr
 - **Burp Suite**: For web application penetration testing.
 - **Hydra**: For brute-forcing login credentials.
   
-#### Ethical Considerations:
+### Ethical Considerations:
 Penetration testing must always be done under the correct legal framework, with explicit permission from the target organization. Unauthorized penetration testing is illegal and unethical.
 
 ---
@@ -40,11 +40,13 @@ System hardening is the practice of securing a computer system by reducing its v
 
 ### Key Hardening Measures:
 1. **System Updates**: Regularly updating the system is one of the most effective ways to close security gaps.
+   
     ```
     sudo apt update && sudo apt upgrade -y
     ```
 
 2. **Disabling Unnecessary Services**: Disable services you don’t need to minimize attack surfaces. Use the `systemctl` command to manage services.
+
     ```
     sudo systemctl stop <service_name>
     sudo systemctl disable <service_name>
@@ -56,6 +58,7 @@ System hardening is the practice of securing a computer system by reducing its v
 
 4. **Firewall Configuration**: Use a firewall to restrict access to services.
     - Using `UFW` (Uncomplicated Firewall) on Ubuntu:
+
     ```
     sudo ufw allow ssh
     sudo ufw enable
@@ -63,6 +66,7 @@ System hardening is the practice of securing a computer system by reducing its v
 
 5. **Audit Logging**: Keep track of system activity to detect malicious behavior.
     - Use `auditd` to monitor file access, system changes, and suspicious activity.
+
     ```
     sudo apt install auditd
     sudo service auditd start
@@ -70,11 +74,13 @@ System hardening is the practice of securing a computer system by reducing its v
 
 6. **Password Policies**: Implement strong password policies to prevent brute-force and dictionary attacks.
     - Use `passwd` command to enforce password expiration policies:
+
     ```
     sudo chage -M 90 <username>
     ```
 
 7. **File Integrity Monitoring**: Use tools like `AIDE` to monitor system files for unexpected changes.
+
     ```
     sudo apt install aide
     sudo aideinit
@@ -92,6 +98,7 @@ SELinux is an integrated security system that enforces the principle of least pr
 
 1. **Install SELinux on your VM**:
     - For CentOS/RHEL:
+
     ```
     sudo yum install policycoreutils selinux-policy-targeted
     sudo setenforce 1
@@ -99,6 +106,7 @@ SELinux is an integrated security system that enforces the principle of least pr
 
 2. **Configure SELinux to prevent a user from accessing a specific file**:
     - You can label files to restrict access using SELinux file contexts.
+
     ```
     semanage fcontext -a -t user_home_t "/path/to/file"
     restorecon -v /path/to/file
@@ -106,12 +114,14 @@ SELinux is an integrated security system that enforces the principle of least pr
 
 3. **Configure SELinux to allow a specific user to access a service but deny access to others**:
     - Set the appropriate SELinux booleans or ports for the service.
+
     ```
     semanage port -a -t http_port_t -p tcp 8080
     ```
 
 4. **Deny access to a user or group for a network service**:
     - Restrict access to network services by adjusting SELinux settings:
+
     ```
     setsebool -P httpd_can_network_connect 0
     ```
@@ -121,18 +131,21 @@ AppArmor is similar to SELinux but is considered easier to configure. It uses pr
 
 5. **Configure AppArmor to prevent a user from accessing a file**:
     - You can create AppArmor profiles for applications and restrict file access:
+
     ```
     sudo aa-logprof
     ```
 
 6. **Configure AppArmor to allow a user to access a service but deny others**:
     - Modify `/etc/apparmor.d/usr.sbin.apache2` to specify allowed actions.
+
     ```
     /path/to/service/** r,
     ```
 
 7. **Deny a user/group access to a service**:
     - Add denial rules to the AppArmor profile.
+
     ```
     deny /path/to/file r,
     ```
@@ -142,18 +155,21 @@ TCP Wrappers control access to network services based on IP addresses.
 
 8. **Allow access from a specific IP address**:
     - Edit `/etc/hosts.allow` to allow specific IPs:
+
     ```
     sshd: 192.168.1.100
     ```
 
 9. **Deny access from a specific IP address**:
     - Deny access by adding to `/etc/hosts.deny`:
+
     ```
     sshd: 192.168.1.101
     ```
 
 10. **Allow access from a range of IP addresses**:
     - Allow a subnet by adding to `/etc/hosts.allow`:
+
     ```
     sshd: 192.168.1.100/255.255.255.0
     ```
