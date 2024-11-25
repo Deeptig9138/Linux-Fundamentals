@@ -40,7 +40,7 @@ Connect to a remote host:
 ssh username@remote_host
 ```
 
-Configuration
+### Configuration
 Edit /etc/ssh/sshd_config to customize settings like:
 - Maximum concurrent connections.
 - Login methods (passwords or keys).
