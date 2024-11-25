@@ -53,7 +53,7 @@ This introduces fundamental concepts and hands-on practices for Linux. By comple
 25. [Remote Desktop Protocols in Linux](https://github.com/Deeptig9138/Linux-Fundamentals/tree/main/Linux%20Networking/25.%20Remote%20Desktop%20Protocols%20in%20Linux)
 
 ### Linux Hardening
-26. [Linux Security](#linux-security)  
+26. [Linux Security](https://github.com/Deeptig9138/Linux-Fundamentals/tree/main/Linux%20Hardening/26.%20Linux%20Security)  
 27. [Firewall Setup](#firewall-setup)  
 28. [System Logs and Monitoring](#system-logs-and-monitoring)
 
